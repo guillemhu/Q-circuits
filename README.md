@@ -1,2 +1,2 @@
-# quantum-circuits
-Fundamental of Quantum Computing
+# Quantum-Circuits
+Fundamental of Quantum Computing.
